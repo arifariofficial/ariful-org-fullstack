@@ -1,0 +1,6 @@
+[submodule "ariful-org-react"]
+	path = ariful-org-react
+	url = https://github.com/arifariofficial/ariful-org-react.git
+[submodule "ariful-org-node"]
+	path = ariful-org-node
+	url = https://github.com/arifariofficial/ariful-org-node.git
